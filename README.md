@@ -30,6 +30,8 @@ Welcome to my central repository for the international astronomy and data scienc
 *   **Planetary Interior Inference:** Evaluated mass-radius dimensions against core theoretical equations of state, classifying the targeted object as a volatile-rich, water-dominated sub-Neptune or liquid ocean world[cite: 3].
 *   📂 **[View Notebook: Exoplanet Detection Methods](./week2/Intro2Astro_Exoplanet_Detection_Methods%20(1).ipynb)**
 *   📂 **[View Notebook: Python & Jupyter Tutorial](./week2/Python_Tutorial.ipynb)**
+* 📄 **Literature Survey:** Deep dive into the exoplanet detection review paper by Lee (2018).
+* 📝 [Read My Analytical Discussion & Questions (PDF)](./week2/Literature%20Review%20Questions%20-%20Lee%202018.pdf)
 
 ---
 
