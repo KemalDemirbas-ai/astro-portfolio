@@ -1,7 +1,10 @@
-cat << 'EOF' > README.md
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/26vUSsA7qFftHyl8s/giphy.gif" alt="Rotating Exoplanet" width="300"/>
+
+  <!-- Destansı Hareketli Kozmik Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2e2-94b1-4191-90a4-37888f407775.gif" alt="Cosmic Astronomy Banner" width="100%"/>
+
+  <br/>
+  <br/>
 
   <h1>🌌 Intro to Astro: Exoplanet Detection & Deep Learning 🌌</h1>
   
@@ -20,6 +23,8 @@ cat << 'EOF' > README.md
 </div>
 
 <br>
+
+---
 
 ## 🌌 Program Overview
 * **Role:** Student / Software Architect
@@ -72,4 +77,3 @@ The definitive multi-dimensional joint and marginal posterior probability distri
 ---
 
 ***Maintained with 🖥️ by Kemal Sadık Demirbaş.***
-EOF
