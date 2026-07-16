@@ -44,7 +44,7 @@ Here is a direct preview of the accomplished terminal environment tasks:
 The definitive multi-dimensional joint and marginal posterior probability distributions showcasing structural parameter correlations derived via the MCMC `emcee` sampler[cite: 3]:
 
 <p align="center">
-  <img src="week2/my_saved_plot.png" alt="MCMC Corner Plot Constraints" width="700"/>
+  <img src="week2/my_saved_plot_2.png" alt="MCMC Corner Plot Constraints" width="700"/>
 </p>
 
 ---
