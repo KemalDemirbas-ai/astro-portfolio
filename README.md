@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Destansı Hareketli Kozmik Banner -->
+  <!-- GERÇEK HAREKETLİ DESTANDI KOZMİK BANNER (GEZEGEN VE UZAY DÖNÜYOR) -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f33cd2e2-94b1-4191-90a4-37888f407775.gif" alt="Cosmic Astronomy Banner" width="100%"/>
 
   <br/>
