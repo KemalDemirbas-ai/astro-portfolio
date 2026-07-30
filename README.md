@@ -102,7 +102,7 @@ Comparative small-planet radius distribution ($1\text{--}6\,R_\oplus$) comparing
 ### 🟪 Week 4: TESS Light Curve Diagnostic Preview
 TESS photometric light curve analysis and transit signal detection for TOI-700 d:
 <p align="center">
-  <img src="week4/toi_700_d_lightcurve.png" alt="TESS TOI-700 d Light Curve Analysis" width="85%">
+  <img src="week4/tess_light_curve.png" alt="TESS TOI-700 d Light Curve Analysis" width="85%">
 </p>
 
 ---
